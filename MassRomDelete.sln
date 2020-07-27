@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30309.148
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MassRomDelete", "MassRomDelete\MassRomDelete.csproj", "{0A5B0F8E-110D-4811-84FF-411DD8F9BC9C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0A5B0F8E-110D-4811-84FF-411DD8F9BC9C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0A5B0F8E-110D-4811-84FF-411DD8F9BC9C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0A5B0F8E-110D-4811-84FF-411DD8F9BC9C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0A5B0F8E-110D-4811-84FF-411DD8F9BC9C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {CAE2F806-AFAF-45CB-BD48-896F67CC6691}
+	EndGlobalSection
+EndGlobal
